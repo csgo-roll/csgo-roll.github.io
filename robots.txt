@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://csgo-roll.github.io
+
+# Sitemaps
+Sitemap: https://csgo-roll.github.io/sitemap.xml
